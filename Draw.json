@@ -1,0 +1,177 @@
+{
+  "operationsTeam": {
+    "teamLeader": {
+      "role": "Team Leader",
+      "area": "Operations",
+      "name": "Fred Hwang In Shin"
+    },
+    "groups": [
+      {
+        "name": "West Operations Group",
+        "groupLeader": "James Lee",
+        "parts": [
+          {
+            "name": "West Operations Part",
+            "partLeader": "Yeji Sung",
+            "members": [
+              "Wesley Nohar",
+              "Nina Vu",
+              "Kim Anh Nguyen",
+              "Wei Wei Sun"
+            ]
+          },
+          {
+            "name": "E-Com Part",
+            "partLeader": "Lesily Liang",
+            "members": [
+              "Rodrigo Nunes"
+            ]
+          },
+          {
+            "name": "SEACE Part",
+            "partLeader": "Joanna Wang",
+            "members": [
+              "Pieldra Sinaga",
+              "Viola Huang"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "East Operations Group",
+        "groupLeader": "James Kim",
+        "parts": [
+          {
+            "name": "East Operations Part",
+            "partLeader": "James Kim",
+            "members": []
+          },
+          {
+            "name": "Tracking Part",
+            "partLeader": "Daniel Ha",
+            "members": [
+              "Gabor Nagy",
+              "Anton Nemeth",
+              "Marek Gejdos",
+              "Michal Bencko",
+              "Michal Zelny",
+              "Jakub Hronec",
+              "Jana Bakosova",
+              "Viktor Krigler",
+              "Vivien Szemelova"
+            ]
+          },
+          {
+            "name": "Security Part",
+            "partLeader": "Micha Levy",
+            "members": [
+              "Rene Timmerman"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Solutions Group",
+        "groupLeader": "Arno Stam",
+        "parts": [
+          {
+            "name": "Project Management",
+            "members": [
+              {
+                "role": "Project Manager",
+                "name": "Carol Lemmens"
+              },
+              {
+                "role": "Project Manager",
+                "name": "Mark Gully"
+              }
+            ]
+          },
+          {
+            "name": "WMS Part",
+            "partLeader": "Diego Rondon",
+            "members": [
+              "Myong Wook Kwon",
+              "Dirk de Kater",
+              "Niels Scholten",
+              "Camelia Ban"
+            ]
+          },
+          {
+            "name": "TMS/Billing Part",
+            "partLeader": "Richard Durech",
+            "members": [
+              "Richard Van Wielink",
+              "Minji Oh",
+              "Fiona Chen",
+              "Ly Pham",
+              "Reddhi Uday Bhatt",
+              "Hieu Bao Tran",
+              "Sarah Ben Abid",
+              "HwanHee Lee"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ICTO Group",
+        "groupLeader": "Clark Park",
+        "parts": [
+          {
+            "name": "Unspecified Part",
+            "members": [
+              "Andre Maissan",
+              "Remco van Hooft",
+              "Daravuth Soeung",
+              "Shailesh Gaya"
+            ]
+          },
+          {
+            "name": "IT Infra Part",
+            "partLeader": "Deneys Rossouw",
+            "members": [
+              "Bojan Petrushevski",
+              "Yasir Mohamud",
+              "Donovan Cheung",
+              "Mahyar Moazed",
+              "Omar Al Jawad",
+              "Remco Vlaminckx",
+              "Yvo van Klaveren",
+              "Semih Yildirim"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Captive Pricing Group",
+        "groupLeader": "Inhun Kim",
+        "parts": [
+          {
+            "name": "Unspecified Part",
+            "members": [
+              "Georgii Provotorov",
+              "Ruslan Kogay",
+              "Youngchae Lee",
+              "Sharida Lalmohamed",
+              "Hanna Witula",
+              "Maximilian Wurster",
+              "Claudia Subias Botana"
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "DT Lab - Automation Project",
+        "partLeader": "Zakaria Belhaj",
+        "members": [
+          "Mustapha Oumorghi",
+          "Lennaert Ian Van Loon",
+          "Ben Hunsche"
+        ],
+        "relationship": "dashed-line reporting to Operations Team Leader"
+      }
+    ]
+  }
+}
